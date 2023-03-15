@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, I'm Hengjin Dong👋 <a href="dhj5252.github.io"></a>
 
-<!--
-**dhj5252/dhj5252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I am currently a fresh Master's student at Shenzhen University.
+- 🌱 I am currently learning about the front-end.
+- 💬 Communicate with me about **Vim Vue & Python**
+- 📫 You can get in touch wih me by email at hengjindong4@gmail.com.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+
+```text
+Python      1 hr 35 mins    ███████████████████▒░░░░░   77.34 %
+HTML        25 mins         █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+YAML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
+<!--END_SECTION:waka-->
+
+---

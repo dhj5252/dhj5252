@@ -2,5 +2,4 @@
 
 - 🌱 Currently engaged in front-end development.
 - 💬 Communicate with me about **Vue Vim & Three**
-- 📫 You can get in touch wih me by email: hengjindong4@gmail.com. -->
-<!-- - ⚡ Fun fact: Big Fan of the :zap: emoji
+- 📫 You can get in touch wih me by email: hengjindong4@gmail.com.
